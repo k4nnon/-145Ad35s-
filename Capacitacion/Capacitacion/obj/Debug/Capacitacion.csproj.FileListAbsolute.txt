@@ -1,0 +1,6 @@
+C:\Users\k4nnnon\Desktop\Ingreso\Capacitacion\Capacitacion\bin\Capacitacion.dll.config
+C:\Users\k4nnnon\Desktop\Ingreso\Capacitacion\Capacitacion\bin\Capacitacion.dll
+C:\Users\k4nnnon\Desktop\Ingreso\Capacitacion\Capacitacion\bin\Capacitacion.pdb
+C:\Users\k4nnnon\Desktop\Ingreso\Capacitacion\Capacitacion\obj\Debug\Capacitacion.csprojResolveAssemblyReference.cache
+C:\Users\k4nnnon\Desktop\Ingreso\Capacitacion\Capacitacion\obj\Debug\Capacitacion.dll
+C:\Users\k4nnnon\Desktop\Ingreso\Capacitacion\Capacitacion\obj\Debug\Capacitacion.pdb

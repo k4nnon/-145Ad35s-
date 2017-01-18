@@ -1,0 +1,77 @@
+﻿body {
+    width: 75px;
+    text-align: right;
+    color: #336699;
+}
+.titulo
+{
+    width: 75px;
+    text-align: right;
+    color: #336699;
+}
+.opciones
+{
+  width: 160px;
+  right: 50px;
+  position:relative;
+  right: 95px;
+}
+.textbox2
+{
+    width: 155px;
+    position:relative;
+    right: 43px;
+}
+.tituloPrincipal
+{
+    width: 75px;
+    text-align: right;
+    color: #336699;
+    font-size: large;
+}
+.images{
+    
+    Height:22px;
+    Width: 21px;
+    position:relative;
+    right: 635px;
+    top: 3px;
+}
+.calendario {
+    position:relative;
+    Height: 0px;
+    Width: 0px;
+    top: 2px;
+}
+.marco{
+    width: 203px;
+    position:relative;
+    right: 0px;
+    top: 10px;
+}
+.alertmessage{
+   position:relative;
+   right: 470px;
+   text-align: left;
+}
+.alertmessage2{
+   position:relative;
+   right: 525px;
+   text-align: left;
+}
+.porcentaje{
+   position:relative;
+   right: 45px;
+   text-align: left;
+}
+.listarCursos{
+    position:relative;
+    top: 50px;
+    Height: 59px;
+    Width: 16px; 
+    BackColor: White; 
+    BorderColor:#CCCCCC;
+    BorderStyle: None;
+    BorderWidth: 1px; 
+    CellPadding: 3;
+}
